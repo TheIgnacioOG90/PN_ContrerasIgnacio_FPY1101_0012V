@@ -1,5 +1,4 @@
 # Examen Transversal FPY1101
-
 import random
 import csv
 
@@ -19,7 +18,6 @@ def clasificar_sueldos():
         print(f"{i}. {nombre}: ${sueldo}")
 
 def ver_estadisticas():
-    # Clasificación basada en el sueldo
     for nombre, sueldo in sueldos.items():
         clasificacion = "Alto" if sueldo > 1500000 else "Medio" if sueldo > 750000 else "Bajo"
         print(f"{nombre}: ${sueldo} - Clasificación: {clasificacion}")
