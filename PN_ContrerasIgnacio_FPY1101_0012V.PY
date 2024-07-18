@@ -7,3 +7,4 @@ import csv
 nombres = ["Juan", "Maria", "Carlos", "Ana", "Pedro", "Laura", "Miguel", "Isabel", "Francisco", "Elena"]
 apellidos = ["Perez", "Garcia", "Lopez", "Martinez", "Rodriguez", "Hernandez", "Sanchez", "Gomez", "Diaz", "Fernandez"]
 
+#Generar
